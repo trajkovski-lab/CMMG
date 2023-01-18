@@ -2,6 +2,8 @@
 
 ## Citation
 
+[Publication](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009947)
+
 [Pre-print](https://doi.org/10.1101/2021.03.18.435958)
 
 ## Get Started
